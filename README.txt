@@ -12,4 +12,4 @@ Guide for dummies.
     <strong>Step 6 :</strong> Run the code.
     
     
-     <img src="" alt="https://github.com/barchakuz/Library-mangement-web-app/blob/master/1.PNG">
+     <img src="https://github.com/barchakuz/Library-mangement-web-app/blob/master/1.PNG" alt="Screen-shots">
