@@ -11,5 +11,10 @@ Guide for dummies.
     <strong>Step 5 :</strong> Change "email" into "username" from "administrators" table in myphpadmin.<br>
     <strong>Step 6 :</strong> Run the code.
     
-    
-     <img src="https://github.com/barchakuz/Library-mangement-web-app/blob/master/1.PNG" alt="Screen-shots">
+# Output    
+     ## Project Screenshots
+![1](https://github.com/barchakuz/Library-mangement-web-app/assets/66128370/93c84d95-0cf6-4987-8e37-e1cd4e00d987)
+![2](https://github.com/barchakuz/Library-mangement-web-app/assets/66128370/42e9ce2f-af8e-4e56-8fe9-c8f81fbc899d)
+![3](https://github.com/barchakuz/Library-mangement-web-app/assets/66128370/7d06240d-8252-476f-9965-c3c3ca24aa8f)
+![4](https://github.com/barchakuz/Library-mangement-web-app/assets/66128370/3b52d50a-68de-46ea-8854-3a778825cd46)
+![5](https://github.com/barchakuz/Library-mangement-web-app/assets/66128370/c6cc8e66-6f54-4bbf-9c84-22f93ba2fdb9)
