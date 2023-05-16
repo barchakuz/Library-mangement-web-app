@@ -1,0 +1,121 @@
+body{
+  background-color: #eee;
+}
+.home-m{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: rgb(125, 255, 4);
+}
+
+.home-x {
+float: right;
+}
+h1{
+font-family: Bahnschrift SemiCondensed;
+text-align: center;
+color: aliceblue;
+text-shadow: 0 0 1px rgb(255, 4, 4);
+
+}
+.home-x a {
+display: block;
+color: rgb(8, 8, 8);
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-family: Bahnschrift SemiCondensed;
+font-size: 24px;
+border-bottom: 3px solid transparent;
+}
+.home-x :hover{
+background-color: rgb(238, 255, 0);
+border-bottom: 3px solid rgb(255, 17, 4);;
+}
+.slider{
+width: 100%;
+height: 400px;
+background-color: aquamarine;
+background-repeat: no-repeat;
+background-image: url('img/home/me1.jpg');
+background-size: cover;
+animation: slider 15s infinite linear;
+}
+@keyframes slider{
+0%{background-image: url('../../img/home/me1.jpg');background-size: cover;}
+40%{background-image: url('../../img/home/me2.jpg');background-size: cover;}
+80%{background-image: url('../../img/home/me3.jpg');background-size: cover;}
+100%{background-image: url('../../img/home/me1.jpg');background-size: cover;}
+
+
+}
+form{
+margin-left: 40%;
+line-height: 2;
+font-family: Bahnschrift SemiCondensed;
+}
+input {
+width: 400px;
+height: 25px;
+border: 2px solid rgba(102, 51, 153, 0);
+margin-bottom: 20px;
+}
+textarea{
+width: 400px;
+height: 200px;
+border: 3px solid rgba(255, 255, 255, 0);
+margin-bottom: 20px;
+
+}
+.a{
+  text-align: center;
+}
+.info{
+  display: inline-block;
+  padding: 40px;
+  text-align: center;
+  border: 2px solid grey;
+  width:400px;
+  height: 400px;
+}
+.about{
+  font-family: Bahnschrift SemiCondensed;
+  color:#99ff33;
+  text-align:center;
+
+}
+
+.info h2 {
+  color: #334d4d;
+  font-family: Bahnschrift SemiCondensed;
+}
+.info h3{
+  display: flex;
+  align-items: center;
+  color: #000066;
+  font-weight: normal;
+  font-family: Bahnschrift SemiCondensed;
+}
+
+input:focus{
+outline: none;
+border-top: 3px solid rgb(238, 255, 0);
+border-bottom: 3px solid rgb(238, 255, 0);
+}
+#submit, #reset{
+width: 200px;
+color: aliceblue
+
+}
+#submit{
+background-color: rgb(251, 51, 6);
+}
+#reset{
+background-color: rgb(125, 255, 4);
+}
+.insert{
+font-family: Bahnschrift SemiCondensed;
+font-size: 24;
+color: rgb(229, 255, 0);
+}
